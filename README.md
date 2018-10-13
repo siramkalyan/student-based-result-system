@@ -1,0 +1,2 @@
+# student-based-result-system
+This application comes with a login page as username is a and password is also a and u can modify your own username and password in your own login page and once you are login successfully you can enter the internal marks as they can modified and deleted and in the externals section u can enter the semester code .note.Here i have a small bug and once you read the code you can fix it.Dont worry the code will even execute even if the bug is not corrected
